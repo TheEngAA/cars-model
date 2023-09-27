@@ -1,0 +1,12 @@
+names:
+- cars
+nc: 1
+roboflow:
+  license: CC BY 4.0
+  project: task2-tq0rs
+  url: https://universe.roboflow.com/suas-apvho/task2-tq0rs/dataset/2
+  version: 2
+  workspace: suas-apvho
+test: /content/task2-2/test/images
+train: /content/task2-2/train/images
+val: /content/task2-2/valid/images
