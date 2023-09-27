@@ -1,0 +1,2 @@
+ if you want to try the model (the best model) you just need to use "best.pt"
+
